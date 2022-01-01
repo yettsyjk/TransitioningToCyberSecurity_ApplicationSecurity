@@ -53,11 +53,15 @@ Cyber Security Frameworks
 Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
 Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a set goal to be a mentor for 2022 cohorts.
 
+# 2022
 This 2022, I welcome the new year by learning GO and C# to improve my personal projects. 
 I have set a should - that will help me get E-Council Certified Application Security Engineer certificate and becoming better informed at GRC standards. 
 
 To be continued.. 💾
 
+# connect
 If you have read this far into my journey, let's connect: [Yettsy Jo](https://www.linkedin.com/in/yettsy-jo-knapp) !
+
+I want to learn from your journey, any advice or feedback is greatly appreciated. 
 
  
