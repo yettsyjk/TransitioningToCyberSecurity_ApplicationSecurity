@@ -1,4 +1,4 @@
-# Transitioning To CyberSecurity Application Security
+# Transitioning To Cyber Security Application Security
 (January 1, 2022) - Journey from Software Engineer to Cyber Security Engineer
 
 
