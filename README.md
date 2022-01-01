@@ -50,7 +50,7 @@ Cyber Security Frameworks
 - [ ] CMMC
 - [ ] NIST
 
-Attending my first Cyber Security Conference, meeting so many women in this field and building last lasting friendships. 
+Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
 Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a set goal to be a mentor for 2022 cohorts.
 
 This 2022, I welcome the new year by learning GO and C# to improve my personal projects. 
