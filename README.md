@@ -24,7 +24,7 @@ I was finding bugs that seemed common and would be considered low risk, but my w
 # 2021 
 My passion led me training on topics that I was weak at and wanted to keep improving on, tools like:
 - [ ] CompTIA Network+ knowledge not certified yet
-- [x] COMPTIA Security+ ce certification
+- [x] COMPTIA Security+ ce certification (course taught InfoSec partnership with VetsInTech)
 - [x] IBM Cybersecurity Fundamentals
 - [x] ITIL 4
 - [ ] Bluetooth and Radio Frequency
