@@ -3,7 +3,7 @@
 
 
 # whoami
-I started my training in Software Engineering as an immmersive student at General Assembly in Denver, CO. I found myself sipteeking more education and needing to understand the Python scripts that were interpreted and wanting to know what and how to interpret. 
+I started my training in Software Engineering as an immersive student at General Assembly in Denver, CO. I found myself seeking more education and needing to understand the Python scripts that were interpreted and wanting to know what and how to interpret. 
 
 Then I joined and completed my second immersive, this time in Java 8. The instructors at Skill Distillery in Greenwood Village, CO taught me the foundations that I was missing. I dove in deeper into a new passion and wanted to know how to break, create, and repair software code in Java and Python. Now I felt ready to join the ranks of software engineers, but the road to getting your first role was paved with so many technical challenges that I began to get good at interviewing. 
 
