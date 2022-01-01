@@ -52,6 +52,6 @@ I have set a should that will help me get E-Council Certified Application Securi
 
 To be continued..
 
-If you have read this far into my journey, let's connect: [Yettsy Jo](https://www.linked.in.com/in/yettsy-jo-knapp)!
+If you have read this far into my journey, let's connect: [Yettsy Jo](https://www.linkedin.com/in/yettsy-jo-knapp)!
 
 
