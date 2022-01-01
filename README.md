@@ -55,7 +55,7 @@ Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a se
 
 # 2022
 This 2022, I welcome the new year by learning GO and C# to improve my personal projects. 
-I have set a should - that will help me get E-Council Certified Application Security Engineer certificate and becoming better informed at GRC standards. 
+I have set a should - that will help me get EC-Council Certified Application Security Engineer certificate and becoming better informed at GRC standards. 
 
 To be continued.. 💾
 
