@@ -58,6 +58,6 @@ I have set a should - that will help me get E-Council Certified Application Secu
 
 To be continued.. 💾
 
-If you have read this far into my journey, let's connect: [Yettsy Jo](https://www.linkedin.com/in/yettsy-jo-knapp) !
+If you have read this far into my journey, let's connect: <a src="https://www.linkedin.com/in/yettsy-jo-knapp" target="_blank">Yettsy Jo</a> !
 
  
