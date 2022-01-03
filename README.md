@@ -6,7 +6,9 @@ In search of working with an advanced team in AppSec.
 # whoami
 In November 2019, I started my training in Software Engineering as an immersive student at General Assembly in Denver, CO. ⛰️
 
-I struggled during that whole cohort, I was at the bottom of my class and at one point so far behind that the school was going to 'let' me audit the course. I asked if I managed to get my grades back if I could still graduate and they took a chance on me. I passed with an 86 percent and presented my project for graduation. That was one of the toughest programs I had to overcome, but I let go of my last lifeline then cried a ton and finally buckled down. I had an amazing TA that helped me every day after class going over topics that I was not grasping. My teacher was an absolute Saint, answering so many of my questions. ⏲️ Not to mention a very special tablemate that buddy checked on me and pushed me not to give up, she is such a motivational person and I took a page out of her extremely impressive background. 
+I struggled during that whole cohort, I was at the bottom of my class and at one point so far behind that the school was going to 'let' me audit the course. I asked if I managed to get my grades back if I could still graduate and they took a chance on me. I passed with an 86 percent and presented my project for graduation. That was one of the toughest programs I had to overcome, but I let go of my last lifeline then cried a ton and finally buckled down. I had an amazing TA that helped me every day after class going over topics that I was not grasping. My teacher was an absolute Saint, answering so many of my questions. ⏲️ 
+
+Not to mention a very special tablemate that buddy checked on me and pushed me not to give up, she is such a motivational person and I took a page out of her extremely impressive background. 
 
 I'm so thankful for all them as I continued my journey. 
 
