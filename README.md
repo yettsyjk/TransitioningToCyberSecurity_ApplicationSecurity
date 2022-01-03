@@ -4,25 +4,27 @@ In search of working with an advanced team in AppSec.
 
 
 # whoami
-In November 2019 started my training in Software Engineering as an immersive student at General Assembly in Denver, CO. ⛰️
+In November 2019, I started my training in Software Engineering as an immersive student at General Assembly in Denver, CO. ⛰️
 
-I struggled during that whole cohort, I was at the bottom of my class and at one point so far behind that the school was going to 'let' me audit the course. I asked if I managed to get my grades back if I could still graduate and they took a chance on me. I passed with an 86 percent and presented my project for graduation. That was one of the toughest programs I had to overcome, but I let go of my last lifeline then cried a ton and finally buckled down. I had an amazing TA that helped me every day after class going over topics that I was not grasping. My teacher was an absolute Saint, answering so many of my questions. ⏲️
+I struggled during that whole cohort, I was at the bottom of my class and at one point so far behind that the school was going to 'let' me audit the course. I asked if I managed to get my grades back if I could still graduate and they took a chance on me. I passed with an 86 percent and presented my project for graduation. That was one of the toughest programs I had to overcome, but I let go of my last lifeline then cried a ton and finally buckled down. I had an amazing TA that helped me every day after class going over topics that I was not grasping. My teacher was an absolute Saint, answering so many of my questions. ⏲️ Not to mention a very special tablemate that buddy checked on me and pushed me not to give up, she is such a motivational person and I took a page out of her extremely impressive background. 
+
+I'm so thankful for all them as I continued my journey. 
 
 After completing SEI6 at General Assembly, I found myself seeking more education and needing to understand the Python scripts that were interpreted and wanting to know what and how to interpret them.  
 
-Then in March 2020 (two days before everything went remote due to Covid-19), I joined and completed my second immersive, Skill Distillery in South Denver and this time in Java 8. As the world navigated WFH and remote work, our instructors never gave up. Some of us students did and I wish them the best on their jo'urney. For those of us that continued through our immersive, we powered through.
+Then in March 2020 (two days before everything went remote due to Covid-19), I joined and completed my second immersive at Skill Distillery in South Denver and this time in Java 8. As the world navigated WFH and remote work, our instructors never gave up. Some of us students did give up and I wish them the best on their path. For those of us that continued through our immersive, we powered through.
 
-The instructors at Skill Distillery in Greenwood Village, CO taught me the foundations that I was missing. I dove in deeper into a new passion and wanted to know how to break, create, and repair software code in Java and Python. After graduating that program I felt ready to join the ranks of software engineers. The road to getting my first role was paved with so many technical challenges that I began to get good at interviewing. 
+The instructors at Skill Distillery in Greenwood Village, CO taught me the foundations of object oriented programming (OOP) that I was missing. I dove in deeper into a new passion and wanted to know how to break, create, and repair software code in Java and Python. After graduating that program I felt ready to join the ranks of software engineers. The road to getting my first role was paved with so many technical challenges that I began to get good at interviewing. 
 
 However, I wanted to land my first tech gig so I continued to interview and network. 	🎯 That is the secret sauce, keep networking and programming. Stay open to doors that close, those are your new opportunities.
 
 # find your passion
-In January of 2021, I ran into a person I looked up to in the technical field and that person asked me "What's your passion?". 
+In January of 2021, I ran into a person I looked up to in the technical field and that person asked me a valuable question that began to shape my cyber security road, "What's your passion?". 
 
 That question seemed interesting and little did I know that was going to guide me to not only become great at my passion, but feel challenged to make my passion part of my worklife. That person pointed me towards Kali Linux, then it was like my theme song was on full blast in the background. I was led to find bugs to programs that were written by the very companies I was interviewing at. Awakening confidence in me that I didn't know lay dormant.  
 
 # unpaved roads
-I was finding bugs that seemed common and would be considered low risk, but my write ups would begin to improve. Submitting bugs and leading me down a path of using software programming security tools. These tools are not taught in my traditional univeristy nor the capture the flag events I was attending, instead these tools were introduced on Youtube by security researchers all over the world. I was hooked. 
+I began finding bugs that seemed common and would be considered low risk, but my write ups would begin to improve. Submitting bugs and leading me down a path of using software programming security tools. These tools are not taught at my traditional univeristy nor the capture the flag events I was attending, instead these tools were introduced on Youtube by security researchers all over the world. I was hooked. 
 
 # 2021 
 My passion led me training on topics that I was weak at and wanted to keep improving on, tools like:
