@@ -5,6 +5,7 @@ Dynamic Applcation Security Testing
 
 |         Pros               |              Cons           |
 |----------------------------|-----------------------------|
+|Better at app and context   |        Somewhat noisy       |
 | Independent of App         | Can't ID the exact location |
 |Immediate finds vulns       | Security experience needed  | 
 |No access to source code    |        Time consuming       |
