@@ -14,3 +14,7 @@ Dynamic Applcation Security Testing
 ## training 
 - Free helpful on [YouTube](https://www.youtube.com/watch?v=HbfiPnQdkKQ)
 - from Stackhawk Course name Modern Dynamic Application Security Testing June 2020
+
+### Follow my journey to AppSec
+- Go to [My DAST training resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/DAST_resource.md)
+- Go to my experience with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
