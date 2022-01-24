@@ -70,6 +70,6 @@ To be continued.. 💾
 If you have read this far into my journey, let's connect: [Yettsy Jo](https://www.linkedin.com/in/yettsy-jo-knapp) !
 
 - I want to learn from your journey, any advice or feedback is greatly appreciated. 
-- Go to [Web App Injection Types resource](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
-
+- Go to my experience with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
+- Go to [My DAST training resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/DAST_resource.md)
  
