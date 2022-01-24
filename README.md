@@ -64,7 +64,7 @@ My passion led me training on topics that I was weak at and wanted to keep impro
 helpful secure code training on GitHub resource by creator: 
 - [ ] `kelseyhigtower` [NoCode](https://github.com/kelseyhightower/nocode)
 
-
+### WiCyS (Women In Cyber Security) organization
 - Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
 Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a set goal to be a mentor for 2022 cohorts.
 
