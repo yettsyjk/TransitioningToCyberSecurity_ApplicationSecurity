@@ -4,7 +4,7 @@ Dynamic Applcation Security Testing
 - DAST scanner to id security vulns
 
 |         Pros               |              Cons           |
-------------------------------------------------------------
+|----------------------------|-----------------------------|
 | Independent of App         | Can't ID the exact location |
 |Immediate finds vulns       | Security experience needed  | 
 |No access to source code    |        Time consuming       |
