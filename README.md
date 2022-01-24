@@ -37,8 +37,8 @@ My passion led me training on topics that I was weak at and wanted to keep impro
 - [ ] Bluetooth and Radio Frequency
 - [ ] IoT
 
-Going through SD26 documentation to improve my knowledge on Java 8
-- [x] More Python
+- [x] Continuing reviewing through SD26 documentation to improve my knowledge on Java 8
+- [x] Automation with Python
 - [x] JavaScript
 - [x] JQuery
 - [x] RegEx
@@ -47,18 +47,20 @@ Going through SD26 documentation to improve my knowledge on Java 8
 - [x] Bash
 - [x] Shell
 
-Capture the Flag events
+- Capture the Flag events
 
-Lightning talks 
+- Learn to calculate risk and document risk
 
-Cyber Security Frameworks
+- Lightning talks 
+
+### Cyber Security Frameworks
 - [ ] ISO 
 - [ ] CSF
 - [ ] CMMC
 - [ ] NIST
 - [ ] Great resource for GRC security tools available on Github:Provided by contributor `arudjreis` for [Governance, Risk, and Compliance](https://github.com/Arudjreis/awesome-security-GRC)
 
-Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
+- Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
 Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a set goal to be a mentor for 2022 cohorts.
 
 # 2022
