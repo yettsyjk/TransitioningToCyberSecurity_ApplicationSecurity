@@ -56,7 +56,7 @@ Cyber Security Frameworks
 - [ ] CSF
 - [ ] CMMC
 - [ ] NIST
-- [ ] Great resource for GRC security tools available on Github [Governance, Risk, and Compliance](https://github.com/Arudjreis/awesome-security-GRC)
+- [ ] Great resource for GRC security tools available on Github:Provided by contributor `arudjreis` for [Governance, Risk, and Compliance](https://github.com/Arudjreis/awesome-security-GRC)
 
 Attending my first Cyber Security Conference, meeting so many women in this field and building lasting friendships. 
 Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a set goal to be a mentor for 2022 cohorts.
