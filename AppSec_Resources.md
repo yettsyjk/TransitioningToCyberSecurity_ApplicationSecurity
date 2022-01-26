@@ -35,8 +35,9 @@
 - Manage your stress and grow from new experiences until I can't physically can't learn anymore. Mental health is real and alert fatigue is real, address your physical and mental health. 
 - Pay it forward 
 
-### Follow my AppSec training journey:
+### Follow my AppSec learning journey:
 - Go to [My transition to AppSec page](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/README.md)
 - Go to [My DAST training resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/DAST_resource.md)
-- Go to my experience with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
+- Go to my journey with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
+- Go to my journey with [Cyber Security Domains] (https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/edit/main/AppSec_Resources.md) 
 - thanks!
