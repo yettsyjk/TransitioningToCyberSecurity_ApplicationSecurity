@@ -39,5 +39,5 @@
 - Go to [My transition to AppSec page](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/README.md)
 - Go to [My DAST training resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/DAST_resource.md)
 - Go to my journey with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
-- Go to my journey with [Cyber Security Domains] (https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/edit/main/AppSec_Resources.md) 
+- Go to my journey with [Cyber Security Domains](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/edit/main/AppSec_Resources.md) 
 - thanks!
