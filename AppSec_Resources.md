@@ -28,10 +28,10 @@
 - Computer Networking
 
 ### What is not on my LinkedIn profile: How have I grown from my failures (Opportunities for improvement)?
-- Don't fake it til you make it! Be confident in what you know and be honest about what you don't know and don't be afraid to ask for assistance. 
-- Falling down happens and not everyone picks themselves back up and keeps trying. I have fallen so many times that I have learned to say thank you for that fall, I dust myself off and find out why I fell and how to prevent that for the next time.
+- Don't fake it til you make it! Be confident in what you know, be honest about what you don't know, and don't be afraid to ask for assistance. 
+- Falling down happens and not everyone picks themselves back up. I have fallen so many times that I have learned to say thank you for that fall, I dust myself off, find out why I fell, and how to prevent that for the next time.
 - Take the opportunity or make the opportunity
-- I have learned that fear can stop me in my tracks and I have learned to listen to that fear and then ask myself what will it look like if I can't do this? Then keep trying. 
+- I have learned that fear can stop me dead in my tracks. I have learned to listen to that fear and then ask myself what will it look like if I can't do this? Then keep trying. 
 - Manage your stress and grow from new experiences until I can't physically can't learn anymore. Mental health is real and alert fatigue is real, address your physical and mental health. 
 - Pay it forward 
 
