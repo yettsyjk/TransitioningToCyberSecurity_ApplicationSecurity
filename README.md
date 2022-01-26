@@ -18,7 +18,7 @@ Then in March 2020 (two days before everything went remote due to Covid-19), I j
 
 The instructors at Skill Distillery in Greenwood Village, CO taught me the foundations of object oriented programming (OOP) that I was missing. I dove in deeper into a new passion and wanted to know how to break, create, and repair software code in Java and Python. After graduating that program I felt ready to join the ranks of software engineers. The road to getting my first role was paved with so many technical challenges that I began to get good at interviewing. 
 
-However, I wanted to land my first tech gig so I continued to interview and network. 	🎯 That is the secret sauce, keep networking and programming. Stay open to doors that close, those are your new opportunities.
+However, I wanted to land my first tech gig so I continued to interview and network. 	🎯 That is the secret sauce, keep networking and programming. Stay open to doors that close, have a growth mindset to new opportunities.
 
 # find your passion
 In January of 2021, I ran into a person I looked up to in the technical field and that person asked me a valuable question that began to shape my cyber security road, "What's your passion?". 
