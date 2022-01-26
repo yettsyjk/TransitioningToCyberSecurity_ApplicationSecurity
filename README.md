@@ -58,10 +58,10 @@ My passion led me training on topics that I was weak at and wanted to keep impro
 - [ ] CSF
 - [ ] CMMC
 - [ ] NIST
-- [ ] Great resource for GRC security tools available on Github:Provided by contributor `arudjreis` for [Governance, Risk, and Compliance](https://github.com/Arudjreis/awesome-security-GRC)
+- [ ] Great resource for GRC security tools available on Github: Provided by creator `arudjreis` for [Governance, Risk, and Compliance](https://github.com/Arudjreis/awesome-security-GRC)
 
 ### Writing secure and reliable applications Free resource
-helpful secure code training on GitHub resource by creator: 
+Helpful secure code training on GitHub resource by creator: 
 - [ ] `kelseyhigtower` [NoCode](https://github.com/kelseyhightower/nocode)
 
 ### WiCyS (Women In Cyber Security) organization
@@ -70,7 +70,9 @@ Becoming a Student volunteer with WiCyS (Women in Cyber Security) org, with a se
 
 # 2022
 This 2022, I welcome the new year by learning GO and C# to improve my personal projects. 
-I have set a should - that will help me get EC-Council Certified Application Security Engineer certificate and becoming better informed at GRC standards. 
+I have set a should - to pass two certifications:
+- EC-Council Certified Application Security Engineer certificate and becoming better informed at GRC standards. 
+- CISSP
 
 To be continued.. 💾
 
