@@ -16,6 +16,7 @@
 ![Map of Cybersecurity Domains](Cyber_Domains.jpeg)
 
 ### Qualities I have learned are beneficial in this domain:
+- Do the Free stuff first
 - Curious mindset / Growth mindset
 - Soft skills
 - Communication skills
@@ -23,6 +24,8 @@
 - Java programming language 
 - Python programming
 - Bash / Powershell  
+- Linux, MacOSX, Windows OS
+- Computer Networking
 
 ### What is not on my LinkedIn profile: How have I grown from my failures (Opportunities for improvement)?
 - Don't fake it til you make it! Be confident in what you know and be honest about what you don't know and don't be afraid to ask for assistance. 
@@ -35,4 +38,4 @@
 ### thanks!
 - Go to [My DAST training resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/DAST_resource.md)
 - Go to my experience with [Web App Injection Types resources](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/WebAppInjectionTypes.md)
-- Go to [My AppSec Journey ](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity/blob/main/TransitioningToCyberSecurity_ApplicationSecurity.md)
+- Go to [My AppSec Journey ](https://github.com/yettsyjk/TransitioningToCyberSecurity_ApplicationSecurity.md)
